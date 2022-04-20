@@ -1,24 +1,4 @@
-<!-- ### Hi there 👋 -->
 
-<!--
-**Primahale/Primahale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Abhi-lab2&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-lab2&layout=compact">
-
- -->
 
 
 <h2 align="center">
@@ -27,7 +7,7 @@ Here are some ideas to get you started:
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Code%20;Sleep%20;Repeat&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Eat%20;Sleep%20;Code%20;Repeat&center=true&width=500&height=50">
 </p>
 
 
@@ -41,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## About Me
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://miro.medium.com/max/875/1*qdAW1TjCN57h1lbuuzvchg.gif" width="350">
 I am a newly qualified IT Graduate, looking for opportunities to show case my skills in the work place. I have studied very hard and I am looking forward to translating all the hard work and effort I have put into studying into real results.
 <br/>
 <br/>
@@ -58,7 +38,7 @@ I am a newly qualified IT Graduate, looking for opportunities to show case my sk
  <br>
  
 ## 🚀 Languages and Tools:
- <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
+ <img align="right" alt="GIF" clear = "both" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/2a991c104600841.5f66ba42edf6a.gif" width="480" height="250" />
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
