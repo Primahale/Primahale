@@ -15,6 +15,10 @@
   <img align="left" alt="Priyanka Mahale LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="mahalepriyanka82@gmail.com">
+  <img align="left" alt="Priyanka Mahale Email" width="40px" src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" />
+</a>
+
 
 <br/>
 <br/>
